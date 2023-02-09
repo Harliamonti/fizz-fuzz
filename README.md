@@ -1,6 +1,6 @@
 # fizz-fuzz
 
-This is just a collection of functions to test some ideas and thoughs I've had regarding the fizzBuzz test.
+This is just a collection of functions to test some ideas and thoughts I've had regarding the fizzBuzz test.
 
 FizzBuzzSimple is well...simple. Scales well /wo too much changes to code as you only need to add a single if statement to increase fizzBuzz to fizzBuzzKluzz etc.
 
